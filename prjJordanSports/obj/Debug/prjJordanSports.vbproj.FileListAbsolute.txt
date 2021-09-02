@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\bin\Debug\prjJordanSports.exe.config
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\bin\Debug\prjJordanSports.exe
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\bin\Debug\prjJordanSports.pdb
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\bin\Debug\prjJordanSports.xml
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.frmMain.resources
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.Resources.resources
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.exe
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.xml
+C:\Users\User\source\repos\prjJordanSports\prjJordanSports\obj\Debug\prjJordanSports.pdb
